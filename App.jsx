@@ -11,7 +11,7 @@ import {
 } from 'react-native';
 import { launchImageLibrary } from 'react-native-image-picker';
 
-const API_KEY = '8707ef4df6471700ac4996d633d3c185'; // <-- Replace this with your ImgBB API key
+const API_KEY = ''; // <-- Replace this with your ImgBB API key
 
 const App = () => {
   const [selectedImage, setSelectedImage] = useState(null);
